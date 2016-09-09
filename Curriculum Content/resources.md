@@ -1,5 +1,5 @@
-Full Curriculum
+* Full Curriculum
+  * The Odin Project
+    * [The Odin project Github](https://github.com/theodinproject/curriculum) 
 
-[The Odin project Github](https://github.com/theodinproject/curriculum) 
-
-[The Odin project website](http://www.theodinproject.com/courses?ref=home)
+    * [The Odin project website](http://www.theodinproject.com/courses?ref=home)
