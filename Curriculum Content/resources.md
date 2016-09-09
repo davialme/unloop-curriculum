@@ -13,4 +13,8 @@
    
 ### Documentation & Reference
  * KA Lite
+    * [KA Lite hosted](http://demo.learningequality.org/learn/khan/computing/)
  * W3 Schools
+    * [W3 Schools Website](http://www.w3schools.com/)
+ * Mozilla Developers Network
+    * [MDN website](https://developer.mozilla.org/en-US/docs/Web/HTML)
