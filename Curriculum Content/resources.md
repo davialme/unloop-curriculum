@@ -10,6 +10,8 @@
    * [YWebCA Github](https://github.com/YWebCA/YWebCA/wiki/software-engineering)
  * CS Unplugged
    * [CS Unplugged Website](http://csunplugged.org/curriculum-links/#ACM_K12_Model_Curriculum)
+ * Node Schools
+    * [Node Schools Tutorials] (http://nodeschool.io/#workshoppers)
    
 ### Documentation & Reference
  * KA Lite
